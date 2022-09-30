@@ -43,7 +43,7 @@ Connection successful
 timed out
 ```
 
-# Signaling
+# Signalling
 
 Standard *Nix-style messaging and exit codes apply:
 * Successful output will be written to 'stdout' and exit code '0' will be issued for successful connections.
