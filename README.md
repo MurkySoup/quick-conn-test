@@ -2,7 +2,7 @@
 
 Quick Connection Tester
 
-Used for quickly testing out host:port pairs. Note this had very limited error trapping and may not handle unusual edge cases well (or perhaps not at all).
+Used for quickly testing out host/port pairs. Note this has very limited error trapping and may not handle unusual edge cases well (or perhaps not at all).
 
 ## Prerequisites
 
